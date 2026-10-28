@@ -1,4 +1,4 @@
-# Student Grade Calculator (PS 20)
+# Student Grade Calculator
 
 ## 1. Project Overview
 The Student Grade Calculator is a beginner-friendly Python command-line application. It asks for a student's name and marks in five subjects, then calculates the total marks, percentage, grade, and pass/fail result.
